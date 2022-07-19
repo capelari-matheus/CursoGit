@@ -1,2 +1,2 @@
-testando cria‡Æo de arquivo
-q
+testando criacao de arquivo
+novo arquivo
